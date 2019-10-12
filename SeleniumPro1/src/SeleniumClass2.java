@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class SelneniumClase2 {
+public class SeleniumClass2 {
 	public static void main (String [] args)throws InterruptedException{
 		
 		//System.setProperties();

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_144"/>
 	<classpathentry kind="lib" path="/Users/aniruddhakaore/Desktop/Selenium/Selenium Addins/selenium-java-3.12.0/client-combined-3.12.0-sources.jar"/>
 	<classpathentry kind="lib" path="/Users/aniruddhakaore/Desktop/Selenium/Selenium Addins/selenium-java-3.12.0/client-combined-3.12.0.jar"/>
 	<classpathentry kind="lib" path="/Users/aniruddhakaore/Desktop/Selenium/Selenium Addins/selenium-java-3.12.0/libs/byte-buddy-1.8.3.jar"/>
@@ -15,5 +14,6 @@
 	<classpathentry kind="lib" path="/Users/aniruddhakaore/Desktop/Selenium/Selenium Addins/selenium-java-3.12.0/libs/okhttp-3.9.1.jar"/>
 	<classpathentry kind="lib" path="/Users/aniruddhakaore/Desktop/Selenium/Selenium Addins/selenium-java-3.12.0/libs/okio-1.13.0.jar"/>
 	<classpathentry kind="lib" path="/Users/aniruddhakaore/Desktop/Selenium/Selenium Addins/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
